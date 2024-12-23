@@ -1,8 +1,8 @@
-# Hi, I'm Aashi! 👾
-
 <div style="text-align: center;">
     <img src="Aashi Collage.gif" alt="Aashi Collage">
 </div>
+
+# Hi, I'm Aashi! 👾
 
 I’m a 4th year Computer Science and Engineering student at UC Irvine with experience in software engineering and AI/ML. **I’m currently seeking full-time new grad opportunities where I can contribute and grow in these fields.** 🌍💻
 
@@ -12,9 +12,9 @@ Throughout my journey, I've built a variety of projects using different language
 <img src="https://skillicons.dev/icons?i=cpp,py,java,ts,js,aws,swift,html,css,nodejs,flask,git,github,azure,docker,postgres,dynamodb,figma,vscode,githubactions" />
 
 ## 💼 Previous Experience
-- Software Engineer Intern @ SimInsights | January 2025 — Present
-- Software Engineer Intern @ Tomorrows AI | September 2024 — December 2024
-- Software Engineer Intern @ USI Netowrks | July 2024 — September 2024
+- Prompt Engineer @ Design and Partnership Lab | January 2024 — Present
+- Software Engineer Intern @ UnitedHealth Group | June 2024 — August 2024
+- Software Engineer Intern @ IMD Solutions | January 2024 — May 2024
 
 ## 📬 Connect with Me
 - **Email**: [aashi30singh@gmail.com](mailto:aashi30singh@gmail.com)

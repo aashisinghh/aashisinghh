@@ -12,7 +12,7 @@ Throughout my journey, I've built a variety of projects using different language
 <img src="https://skillicons.dev/icons?i=cpp,py,java,ts,js,aws,swift,html,css,nodejs,flask,git,github,azure,docker,postgres,dynamodb,figma,vscode,githubactions" />
 
 ## 💼 Previous Experience
-- Prompt Engineer @ Design and Partnership Lab | January 2024 — Present
+- Software Developer @ Design and Partnership Lab | January 2024 — Present
 - Software Engineer Intern @ UnitedHealth Group | June 2024 — August 2024
 - Software Engineer Intern @ IMD Solutions | January 2024 — May 2024
 

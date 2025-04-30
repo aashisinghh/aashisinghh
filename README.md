@@ -18,7 +18,7 @@ I’m a 4th year Computer Science and Engineering student at UC Irvine with expe
 - **Email**: [aashi30singh@gmail.com](mailto:aashi30singh@gmail.com)
 - **Email**: [aashis@uci.edu](mailto:aashis@uci.edu)
 - **LinkedIn**: [linkedin.com/in/aashisingh](https://linkedin.com/in/aashisingh)
-- **Portfolio**: [aashisingh.vercel.app](https://aashisingh.vercel.app)
+- **Portfolio**: [aashisingh.me](https://aashisingh.me)
 
 <!--
 **aashisinghh/aashisinghh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,13 +4,14 @@
 
 # Hi, I'm Aashi! 👾
 
-I’m a 4th year Computer Science and Engineering student at UC Irvine with experience in software engineering and AI/ML. **I’m currently seeking full-time new grad opportunities where I can contribute and grow in these fields.** 🌍💻✨
+I am a Software Engineer with a B.S. in Computer Science & Engineering from UC Irvine (’25). 🌍💻
 
 ## 💻 Technologies & Tools
 <img src="https://skillicons.dev/icons?i=cpp,py,java,ts,js,aws,swift,html,css,nodejs,flask,git,github,azure,docker,postgres,dynamodb,figma,vscode,githubactions" />
 
-## 💼 Previous Experience
-- Software Developer @ Design and Partnership Lab | January 2024 — Present
+## 💼 Experiences
+- Software Developer @ Epic Systems | August 2025 - Present
+- Research Software Engineer @ Design and Partnership Lab | January 2024 — June 2025
 - Software Engineer Intern @ UnitedHealth Group | June 2024 — August 2024
 - Software Engineer Intern @ IMD Solutions | January 2024 — May 2024
 

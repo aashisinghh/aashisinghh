@@ -16,8 +16,7 @@ I am a Software Engineer with a B.S. in Computer Science & Engineering from UC I
 - Software Engineer Intern @ IMD Solutions | January 2024 — May 2024
 
 ## 📬 Connect with Me
-- **Email**: [aashi30singh@gmail.com](mailto:aashi30singh@gmail.com)
-- **Email**: [aashis@uci.edu](mailto:aashis@uci.edu)
+- **Email**: [aashi30singh@gmail.com](mailto:aashi30singh@gmail.com) & [aashis@uci.edu](mailto:aashis@uci.edu)
 - **LinkedIn**: [linkedin.com/in/aashisingh](https://linkedin.com/in/aashisingh)
 - **Portfolio**: [aashisingh.me](https://aashisingh.me)
 

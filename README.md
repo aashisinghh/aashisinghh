@@ -7,7 +7,7 @@
 I am a Software Engineer with a B.S. in Computer Science & Engineering from UC Irvine (’25). 🌍💻
 
 ## 💻 Technologies & Tools
-<img src="https://skillicons.dev/icons?i=cpp,py,java,ts,js,aws,swift,html,css,nodejs,flask,git,github,azure,docker,postgres,dynamodb,figma,vscode,githubactions" />
+<img src="https://skillicons.dev/icons?i=cpp,py,java,ts,js,cs,aws,dotnet,nodejs,nextjs,prisma,tailwind,tensorflow,pytorch,swift,html,css,nodejs,flask,git,github,azure,docker,postgres,dynamodb,figma,vscode,githubactions" />
 
 ## 💼 Experiences
 - Software Developer @ Epic Systems | August 2025 - Present
